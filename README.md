@@ -14,7 +14,7 @@
 <a href="http://www.rashidwassan.tech">
   <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
   
-  ![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
+ ![](https://komarev.com/ghpvc/?username=ahmedshah66&color=blue)
 </a>
 
 <!--- social media icons, you can find them in assets directory of this repo --->
