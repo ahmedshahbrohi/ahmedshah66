@@ -20,7 +20,7 @@
 <a href="https://twitter.com/ahmedshahbrohi">
     <img height="55" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
 </a>  
-<a href="https://www.youtube.com">
+<a href="https://www.youtube.com/channel/UCBMpZEYkO-D_JTbxFVlVBHw">
     <img height="55" src="https://user-images.githubusercontent.com/60597290/152035929-b7f75d38-e1c2-4325-a97e-7b934b8534e2.png" />
 </a>  
 <a href="https://www.linkedin.com/in/ahmed-shah-76b1a4a4/" target="_blank">
