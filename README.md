@@ -12,7 +12,7 @@
 
 <!--- portfolio launch image --->
 <a href="http://www.rashidwassan.tech">
-  <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
+  <img height="300" src="https://github.com/ahmedshah66/ahmedshah66/blob/20c960050a0e92898b5e4be40bc6532182cd585b/Images/icons8-launch-48.png"/>
   
  ![](https://komarev.com/ghpvc/?username=ahmedshah66&color=blue)
 </a>
