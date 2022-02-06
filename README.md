@@ -8,7 +8,7 @@
 <!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
 <div align="center">  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2322E4F7&size=50&width=500&height=100&lines=Hello+Coders!+;I+am+Ahmed+Shah;Asp.net+Core+Developer;Learning+Block+Chain;Glad+to+See+You+Here)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2322E4F7&size=50&width=500&height=100&lines=Hello+Coders!+;I+am+Ahmed+Shah;Learning+.net+and+Block+Chain;Glad+to+See+You+Here)](https://git.io/typing-svg)
 
 <!--- portfolio launch image --->
 <a href="http://www.rashidwassan.tech">
