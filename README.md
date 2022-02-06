@@ -40,10 +40,8 @@
 </a>
 
 <!--- a bit of vertical space & languages text --->
-<div>&nbsp;</div>
-<img height="65" alt="@Rashid Wassan | Facebook" src="https://user-images.githubusercontent.com/60597290/152353234-0715ffd6-7680-4536-9fdc-ef1abc74c469.svg" />
 
-<div></div>
+
 
 <h1 align="center">
   ABOUT ME
