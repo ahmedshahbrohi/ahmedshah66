@@ -3,7 +3,7 @@
 <!--- to upload an asset, create an issue on any of your repository and add files, the link will be generated --->
 
 <!--- header image --->
-![image](https://github.com/ahmedshah66/ahmedshah66/blob/5b6cc0176a9a662647167bd16a42560948997d9a/Images/linkedin%20banner.JPG)
+![image](https://github.com/ahmedshah66/ahmedshah66/blob/163e71d7ab09e2de5374f69d4225ac3a9bedc194/Images/lkbanner.jpg)
 
 <!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
 <div align="center">  
