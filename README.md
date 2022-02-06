@@ -12,7 +12,7 @@
 
 <!--- portfolio launch image --->
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![](https://komarev.com/ghpvc/?username=ahmedshah66&color=blue)
 
  
 ### Find me all around the web:
