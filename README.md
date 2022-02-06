@@ -17,26 +17,26 @@
  
 ### Find me all around the web:
 <!--- social media icons, you can find them in assets directory of this repo --->
-<a href="https://twitter.com/rashidwassaan">
+<a href="https://twitter.com/ahmedshahbrohi">
     <img height="55" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
 </a>  
-<a href="https://www.youtube.com/c/RashidsTechStuff">
+<a href="https://www.youtube.com">
     <img height="55" src="https://user-images.githubusercontent.com/60597290/152035929-b7f75d38-e1c2-4325-a97e-7b934b8534e2.png" />
 </a>  
-<a href="https://www.linkedin.com/in/rashidwassan/" target="_blank">
+<a href="https://www.linkedin.com/in/ahmed-shah-76b1a4a4/" target="_blank">
   <img height="55" alt="RashidWassan | LinkedIN"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
 </a> 
-<a href="https://dev.to/rashidwassan">
+<a href="https://dev.to/ahmedshah">
     <img height="55" src="https://user-images.githubusercontent.com/60597290/152042608-2ae071b9-2a64-49be-a49d-f830152cf8d4.png" />
 </a>
-<a href="https://stackoverflow.com/users/15750590/rashid-wassan" target="_blank">
-  <img height="55" alt="Rashid Wassan | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/152035786-d00aa1c3-56af-4d45-8a3c-15846d1a123d.png" />
+<a href="https://stackoverflow.com/users/3102159/ahmed-shah" target="_blank">
+  <img height="55" alt="Ahmed Shah | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/152035786-d00aa1c3-56af-4d45-8a3c-15846d1a123d.png" />
 </a>
-<a href="https://www.facebook.com/rashidwassann" target="_blank">
-  <img height="55" alt="@Rashid Wassan | Facebook" src="https://user-images.githubusercontent.com/60597290/152035015-605f666e-bfe9-4723-a900-0b1e2790b8f1.png" />
+<a href="https://www.facebook.com/ahmedshahbrohi/" target="_blank">
+  <img height="55" alt="Ahmed Shah | Facebook" src="https://user-images.githubusercontent.com/60597290/152035015-605f666e-bfe9-4723-a900-0b1e2790b8f1.png" />
 </a>
-<a href="https://www.instagram.com/rashidwassaan" target="_blank">
-  <img height="55" alt="Rashid Wassan | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
+<a href="https://www.instagram.com/ahmedshahlehrii/" target="_blank">
+  <img height="55" alt="Ahmed Shah | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
 </a>
 
 <!--- a bit of vertical space & languages text --->
