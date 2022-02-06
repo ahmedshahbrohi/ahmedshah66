@@ -11,12 +11,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2322E4F7&size=50&center=true&width=1000&height=100&lines=Hello+Coders!+;I+am+Ahmed+Shah;Learning+.net+and+Block+Chain;Glad+to+See+You+Here)](https://git.io/typing-svg)
 
 <!--- portfolio launch image --->
-<a href="http://www.rashidwassan.tech">
-  <img height="300" src="https://github.com/ahmedshah66/ahmedshah66/blob/20c960050a0e92898b5e4be40bc6532182cd585b/Images/icons8-launch-48.png"/>
-  
+<a href="http://www.ahmedshah.tech">
  ![](https://komarev.com/ghpvc/?username=ahmedshah66&color=blue)
 </a>
-
+### Find me all around the web:
 <!--- social media icons, you can find them in assets directory of this repo --->
 <a href="https://twitter.com/rashidwassaan">
     <img height="55" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
