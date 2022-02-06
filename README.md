@@ -12,7 +12,7 @@
 
 <!--- portfolio launch image --->
 <a href="http://www.ahmedshah.tech">
- ![](https://komarev.com/ghpvc/?username=ahmedshah66&color=blue)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 </a>
  
 ### Find me all around the web:
