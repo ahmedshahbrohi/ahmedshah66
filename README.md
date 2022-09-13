@@ -103,15 +103,15 @@
 'A young & passionate software developer & tech evangelist fascinated by new technology trends & filled with patriotism, giving his best to play his part in bringing digital change and tech awareness in Pakistan.'
 I am a perfectionist, having obsession with beautiful user interface designs & graphics. I enjoy coding in Flutter, creating beautiful looking apps while being aware of UX as well. Blockchain engrosses me and, therefore, making me dig deeper into the world of Solidity.
 I am a nerd with great troubleshooting skills, who loves to play with different operating systems and explore them. Computer hardware fascinates me very much. Looking forward to having understanding of DevOps & AWS while exploring advanced Dart & Flutter concepts!
-Apart from that, I'm a helping hand for the learners; helping them to learn and grow. I believe in quality education & eager to promote it. I have been helping others by creating content on my [YouTube](https://www.youtube.com/c/RashidsTechStuff) channel & writing articles on various platforms like [Dev.to](https://dev.to/rashidwassan).  
+Apart from that, I'm a helping hand for the learners; helping them to learn and grow. I believe in quality education & eager to promote it. I have been helping others by creating content on my [YouTube](https://www.youtube.com/c/ahmedshah) channel & writing articles on various platforms like [Dev.to](https://dev.to/rashidwassan).  
 
   <!--- adding 3D earth icon to show some love for the environment 🌏 --->
 <img height="40" src="https://user-images.githubusercontent.com/60597290/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
 
 <hr>
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rashidwassan&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=rashidwassan&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ahmedshahbrohi&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=ahmedshahbrohi&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
