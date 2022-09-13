@@ -1,5 +1,6 @@
 <!--- assets are created on Canva --->
-<!--- feel free to download the assests and use them in your profile --->
+<!--- feel free to download the assests and use them in your 
+--->
 <!--- to upload an asset, create an issue on any of your repository and add files, the link will be generated --->
 
 <!--- header image --->
@@ -24,7 +25,7 @@
     <img height="55" src="https://user-images.githubusercontent.com/60597290/152035929-b7f75d38-e1c2-4325-a97e-7b934b8534e2.png" />
 </a>  
 <a href="https://www.linkedin.com/in/ahmed-shah-76b1a4a4/" target="_blank">
-  <img height="55" alt="RashidWassan | LinkedIN"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
+  <img height="55" alt="AhmedShah | LinkedIN"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
 </a> 
 <a href="https://dev.to/ahmedshah">
     <img height="55" src="https://user-images.githubusercontent.com/60597290/152042608-2ae071b9-2a64-49be-a49d-f830152cf8d4.png" />
@@ -56,12 +57,15 @@
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
   </p>
+
 
 ### 🗄️ Databases and cloud hosting
 
 <p>
+
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
