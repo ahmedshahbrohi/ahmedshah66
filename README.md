@@ -115,6 +115,4 @@ Apart from that, I'm a helping hand for the learners; helping them to learn and 
 </p>
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
-```
-<!--- building footer with spaceship question --->
-<img height="70" src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" />
+
