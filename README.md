@@ -5,7 +5,7 @@
 
 <!--- header image --->
 ![image](https://github.com/ahmedshah66/ahmedshah66/blob/163e71d7ab09e2de5374f69d4225ac3a9bedc194/Images/lkbanner.jpg)
-
+<a href="https://app.daily.dev/ahmedshah"><img src="https://api.daily.dev/devcards/12f99213d6a04cf5bf01dd0c11e8c0f6.png?r=qor" width="400" alt="ahmedshahbrohi's Dev Card"/></a>
 <!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
 <div align="center">  
 
